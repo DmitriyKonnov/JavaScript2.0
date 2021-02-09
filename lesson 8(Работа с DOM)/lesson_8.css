@@ -1,0 +1,17 @@
+.one {
+    width: 200px;
+    height: 40px;
+    background: red;
+}
+
+.bg-2 {
+    width: 200px;
+    height: 40px;
+    background: green;
+}
+
+.bg-3 {
+    width: 200px;
+    height: 40px;
+    background: greenyellow;
+}
